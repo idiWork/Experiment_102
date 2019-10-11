@@ -1,0 +1,45 @@
+He tenido un accidente de tráfico con la moto.
+Un coche me ha embestido en la carretera.
+Hemos chocado contra otro vehículo en la autopista.
+Necesito asistencia en la carretera.
+Mi coche tiene una avería en el motor.
+Necesito un vehículo de sustitución.
+Quiero reclamar una multa que me han puesto.
+Me han retirado el carnet de conducir.
+He pinchado una rueda de mi furgoneta.
+El camión no arranca, necesito una grúa.
+Estaba de viaje en coche y necesito asistencia.
+Me he visto implicado en un accidente con el camión.
+Quiero recurrir una multa de aparcamiento.
+Me gustaría recurrir una multa por exceso de velocidad.
+Quiero añadir otro conductor a mi seguro de auto.
+Ha habido una inundación en mi vivienda.
+Se ha roto la tubería de desagüe de la cocina.
+En casa nos hemos quedado sin electricidad.
+Se ha ido la luz en toda la casa.
+Necesitamos un instalador de electrodomésticos.
+Hemos perdido el alquiler de la vivienda.
+Tenemos problemas con el contrato de compra/venta del piso.
+Necesitamos asistencia veterinaria para nuestra mascota.
+Queremos llevar al perro y al gato al veterinario.
+Se nos ha roto el ordenador de casa por un fallo eléctrico.
+Tenemos una ventana rota en el salón de la vivienda.
+Nos han intentado robar en el chalet.
+La puerta de entrada a la vivienda ha sido forzada.
+Tenemos un escape de gas en la caldera de casa.
+Necesito ayuda en el piso con la instalación de gas.
+Quiero una cita médica con un especialista.
+Necesito acudir a un hospital.
+Quiero concertar una cita con el dentista.
+Me gustaría visitar un dermatólogo.
+Creo que tengo una enfermedad grave.
+Necesito asistencia médica urgente.
+Quiero ampliar mi cobertura médica.
+Necesito visitar a un oftalmólogo.
+Quiero saber qué centros médicos hay disponibles.
+Estoy de viaje y necesito asistencia médica.
+Necesito que una ambulancia me lleve a urgencias.
+Tenemos que llevar al abuelo a urgencias del hospital.
+Necesito que un profesional sanitario me ayude.
+Tengo que hacerme un chequeo médico completo.
+Quiero pedir cita en el centro de salud para hacerme un análisis.
