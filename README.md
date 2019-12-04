@@ -4,7 +4,7 @@
 ------------
 
 ##### Project Date:
-- 15/06/2019 | August-September 2019
+- August-September 2019
 
 ##### Services:
 - Azure Notebooks
