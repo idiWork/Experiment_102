@@ -37,3 +37,17 @@ Also, we will perform the integration with the Azure Cognitive Services along wi
 The principal advantage of using Cognitive Services and Deep Learning in this case is the possibility of identifying very quickly the reviews or comments that needs to be carefully manage by a human been because of its importance or its urgency.
 Even if tons and tons of messages arrive, we can be sure that the most critical messages will be identified and treated immediately and the rest of them will be classified and stored correctly.
 This way a company will save money and resources and will be very much efficient attending customers' requests.
+
+## Links
+
+[Experiment: Hotel Customer Reviews Classification](https://www.idiwork.com/projects/experiment-102/)
+
+[Architecture Diagram: Services and Resources](https://www.idiwork.com/experiment-102-architectural-diagram/)
+
+[Step by Step 1: How to create an Azure Notebooks project](https://www.idiwork.com/experiment-102-how-to-create-an-azure-notebooks-project-and-deploy-a-summarization-service/)
+
+[Step by Step 2: How to construct a Deep Neural Network](https://www.idiwork.com/experiment-102-how-to-construct-and-train-a-deep-neural-network-using-keras-and-deploy-the-model-as-an-azure-web-service/)
+
+[Step by Step 3: How to deploy Azure Cognitive Services](https://www.idiwork.com/experiment-102-how-to-deploy-and-integrate-azure-cognitive-services-computer-vision-and-text-analytics/)
+
+[Step by Step 4: How to use Microsoft Flow to send alerts](https://www.idiwork.com/experiment-102-how-to-use-microsoft-flow-to-send-an-email-when-an-event-occurs/)
